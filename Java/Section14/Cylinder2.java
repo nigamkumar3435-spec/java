@@ -14,24 +14,24 @@ class Cylinder
         height=h;
     }
     
-//    public double getRadius()
-//    {
-//        return radius;
-//    }
-//    public void setRadius(double r)
-//    {
-//        if(r>0) radius=r;
-//        else radius=0;
-//    }
-//    public double getHeight()
-//    {
-//        return radius;
-//    }
-//    public void setHeight(double h)
-//    {
-//        if(h>0) height=h;
-//        else height=0;
-//    }
+   public double getRadius()
+   {
+       return radius;
+   }
+   public void setRadius(double r)
+   {
+       if(r>0) radius=r;
+       else radius=0;
+   }
+   public double getHeight()
+   {
+       return radius;
+   }
+   public void setHeight(double h)
+   {
+       if(h>0) height=h;
+       else height=0;
+   }
     public double volume()
     {
         return Math.PI*radius*radius*height;
