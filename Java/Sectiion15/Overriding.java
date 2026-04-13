@@ -23,7 +23,7 @@ public class Overriding
         Sub s=new Sub();
         s.display();
         
-        Super sub=new Sub();
+        Super sub=new Sub();   //This mechanism is called dynamic dispatch method in java. 
         sub.display();
     }   
 }
