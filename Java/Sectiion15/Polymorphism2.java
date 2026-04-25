@@ -20,7 +20,8 @@ public class Polymorphism2
 //        Super s1=new Super();
 //        s1.display();  //--> Super Display
         
-        Super s2=new Sub();
+        Super s2=new Sub(); // This is dynamic method dispatch.
         s2.display();  //--> O/P:- Super Display & Sub Display
     }   
 }
+// It is run time polymorphism
