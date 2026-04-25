@@ -20,3 +20,5 @@ public class Polymorphism1
         System.out.println(o1.max(10,12,6));
     }    
 }
+// Here, two max function are there and which mehtod has to be called decided at compile time.
+// So, it is compile time polymorphism.
