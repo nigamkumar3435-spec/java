@@ -1,3 +1,5 @@
+// Challange: callback Method
+
 interface Member
 {
     public void callback();
@@ -39,7 +41,6 @@ public class Interface1
         s.register(c1);
         s.register(c2);
         s.inviteSale();
-    }
-    
+    }   
 }
 
