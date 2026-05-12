@@ -26,3 +26,4 @@ public class InnerClass
         Outer.Inner i=new Outer().new Inner();
     }  
 }
+// Inner class can access the member of outer class directly.but outer class can't access member of inner class directly unless it has created an object of inner class.
