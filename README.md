@@ -1,4 +1,4 @@
-````markdown
+
 # ☕ Java Learning Repository
 
 ![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java)
